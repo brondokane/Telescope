@@ -1,8 +1,8 @@
 Telescope.strings.en = {
-  "forms.submit": "Submit",
-  "forms.cancel": "Cancel",
+  "forms.submit": "Einsenden",
+  "forms.cancel": "Abbrechen",
 
-  "posts.new_post": "New Post",
+  "posts.new_post": "Neuer Post",
   "posts.edit": "Edit",
   "posts.edit_success": "Post “{title}” edited.",
   "posts.delete": "Delete",
@@ -69,8 +69,8 @@ Telescope.strings.en = {
   "users.please_log_in": "Please log in",
   "users.cannot_post": "Sorry, you do not have permissions to post at this time",
 
-  "categories": "Categories",
-  "categories.all": "All Categories",
+  "categories": "Kategorien",
+  "categories.all": "Alle Kategorien",
   "categories.edit": "Edit Category",
   "categories.new": "New Category",
   "categories.delete": "Delete Category",
